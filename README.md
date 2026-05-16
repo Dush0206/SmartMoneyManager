@@ -64,18 +64,6 @@ SmartMoneyManager
 
 ---
 
-## 📸 Screenshot
-
-<img src="screenshot.png" width="800"/>
-
----
-
-## 👨‍💻 Author
-
-- 👨‍💻 Dushyanth N
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
